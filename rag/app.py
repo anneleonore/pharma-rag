@@ -28,7 +28,7 @@ div[data-testid="stChatInput"] textarea:focus {{ border-color:#bbb !important; b
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded" rel="stylesheet">
 <div class="title-row"><div class="title-icon"><span>science</span></div><h1>Clinical Trials Assistant</h1></div>
 <div class="subtitle">Ask about 12,000+ clinical trials running in Australia.<br>
-Answers cite the trials they are based on.</div>
+Each answer lists the trials it is based on.</div>
 """, unsafe_allow_html=True)
 
 
