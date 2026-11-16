@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/trials_australia_raw.json.gz
+data/sample_studies.json
