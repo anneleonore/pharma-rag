@@ -31,8 +31,6 @@ div[data-testid="stChatInput"] textarea:focus {{ border-color:#bbb !important; b
 Each answer lists the trials it is based on.</div>
 """, unsafe_allow_html=True)
 
-
-@st.cache_data
 def load_examples() -> dict:
     return json.loads(EXAMPLES_FILE.read_text()) if EXAMPLES_FILE.exists() else {}
 
