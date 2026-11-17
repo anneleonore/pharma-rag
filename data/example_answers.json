@@ -1,0 +1,408 @@
+{
+  "EGFR inhibitors in lung cancer": {
+    "question": "Which EGFR inhibitors are being tested in lung cancer?",
+    "answer": "40 active trials test EGFR inhibitors in lung cancer. They test these drugs:\n\n- **osimertinib** (Tagrisso, AZD9291) – 10 trials.  \n- **sunvozertinib** (DZD6008) – 3 trials; one example is [NCT06905197].  \n- **amivantamab** (Rybrevant, JNJ‑61186372) – 2 trials.  \n- **furmonertinib** (AST2818) – 2 trials; one example is [NCT05364073].",
+    "draft": "40 active trials test EGFR inhibitors in lung cancer. They test these drugs:\n\n- **osimertinib** (Tagrisso, AZD9291): 10 trials. tested drug in multiple trials.  \n- **sunvozertinib** (DZD9008): 3 trials. tested drug in [NCT06905197].  \n- **amivantamab** (Rybrevant, JNJ‑61186372): 2 trials. tested drug in several trials.  \n- **furmonertinib** (AST2818): 2 trials. tested drug in [NCT05364073].",
+    "changes": [
+      "Updated opening sentence to reflect that only a subset of the 40 trials test EGFR inhibitors.",
+      "Corrected the Sunvozertinib synonym from “DZD9008” to “DZD6008” to match the cited trial [NCT06905197]."
+    ],
+    "terms": {
+      "focus": "Conditions: lung cancer. Interventions: EGFR inhibitor, erlotinib, gefitinib.",
+      "conditions": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "NSCLC"
+      ],
+      "interventions": {
+        "EGFR (target)": [
+          "EGFR",
+          "epidermal growth factor receptor"
+        ],
+        "erlotinib": [
+          "erlotinib",
+          "Tarceva",
+          "CP-358774",
+          "osi-774"
+        ],
+        "gefitinib": [
+          "gefitinib",
+          "Iressa",
+          "ZD1839"
+        ],
+        "afatinib": [
+          "afatinib",
+          "Gilotrif",
+          "BIBW2992",
+          "giotrif",
+          "giotrif / gilotrif"
+        ],
+        "osimertinib": [
+          "osimertinib",
+          "Tagrisso",
+          "AZD9291",
+          "azd9291, tagrisso",
+          "osimertinib: tagrisso, azd9291"
+        ]
+      },
+      "status": "active",
+      "sponsors": []
+    },
+    "total": 40,
+    "counts": [
+      {
+        "drug": "carboplatin",
+        "trials": 12
+      },
+      {
+        "drug": "pemetrexed",
+        "trials": 12
+      },
+      {
+        "drug": "osimertinib",
+        "trials": 10
+      },
+      {
+        "drug": "cisplatin",
+        "trials": 7
+      },
+      {
+        "drug": "docetaxel",
+        "trials": 3
+      },
+      {
+        "drug": "paclitaxel",
+        "trials": 3
+      },
+      {
+        "drug": "platinum-based chemotherapy",
+        "trials": 3
+      },
+      {
+        "drug": "sunvozertinib",
+        "trials": 3
+      },
+      {
+        "drug": "amivantamab",
+        "trials": 2
+      },
+      {
+        "drug": "bevacizumab",
+        "trials": 2
+      },
+      {
+        "drug": "dato-dxd",
+        "trials": 2
+      },
+      {
+        "drug": "durvalumab",
+        "trials": 2
+      },
+      {
+        "drug": "fulvestrant",
+        "trials": 2
+      },
+      {
+        "drug": "furmonertinib",
+        "trials": 2
+      },
+      {
+        "drug": "gemcitabine",
+        "trials": 2
+      }
+    ],
+    "trials": [
+      {
+        "trial_id": "NCT07128199",
+        "title": "A Study to Assess Zipalertinib Versus Placebo in Participants With Early Stage NSCLC With Uncommon EGFR Mutations, Following Complete Tumor Resection",
+        "phase": "Phase 3",
+        "status": "RECRUITING",
+        "sponsor": "Taiho Oncology, Inc.",
+        "url": "https://clinicaltrials.gov/study/NCT07128199"
+      },
+      {
+        "trial_id": "NCT05967689",
+        "title": "A Study of Zipalertinib in Patients With Advanced Non-Small Cell Lung Cancer With Epidermal Growth Factor Receptor (EGFR) Exon 20 Insertions or Other Uncommon Mutation.",
+        "phase": "Phase 2",
+        "status": "RECRUITING",
+        "sponsor": "Taiho Oncology, Inc.",
+        "url": "https://clinicaltrials.gov/study/NCT05967689"
+      },
+      {
+        "trial_id": "NCT06074588",
+        "title": "Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small Cell Lung Cancer (NSCLC) With EGFR Mutations or Other Genomic Alterations (MK-2870-004)",
+        "phase": "Phase 3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "url": "https://clinicaltrials.gov/study/NCT06074588"
+      },
+      {
+        "trial_id": "NCT06905197",
+        "title": "A Multinational Study Assessing an Oral EGFR Inhibitor, DZD6008 in Patients Who Have Advanced NSCLC With EGFR Mutations (TIAN-SHAN1)",
+        "phase": "Phase 1",
+        "status": "RECRUITING",
+        "sponsor": "Dizal Pharmaceuticals",
+        "url": "https://clinicaltrials.gov/study/NCT06905197"
+      },
+      {
+        "trial_id": "NCT05364073",
+        "title": "Study of Furmonertinib in Patients With Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) With Activating, Including Uncommon, Epidermal Growth Factor Receptor (EGFR) or Human Epidermal Growth Factor Receptor 2 (HER2) Mutations",
+        "phase": "Phase 1",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "sponsor": "ArriVent BioPharma, Inc.",
+        "url": "https://clinicaltrials.gov/study/NCT05364073"
+      }
+    ]
+  },
+  "AstraZeneca in lung cancer": {
+    "question": "Which lung cancer trials is AstraZeneca currently running?",
+    "answer": "23 active trials are for lung cancer. The most relevant are listed below.\n\n- **A Study of Novel Combinations in Non‑Small Cell Lung Cancer (NSCLC)** [NCT07098338]: Rilvegostomig, Ramucirumab, and Dato‑DXd. *Phase 2 | recruiting | lead sponsor: AstraZeneca | collaborators: Daiichi Sankyo*\n- **A Phase III Study of Ceralasertib Plus Durvalumab Versus Docetaxel in Patients With NSCLC** [NCT05450692]: Ceralasertib, Durvalumab, and Docetaxel. *Phase 3 | active not recruiting | lead sponsor: AstraZeneca | collaborators: Parexel*\n- **Study of DS‑1062a Versus Docetaxel in Previously Treated Advanced or Metastatic NSCLC** [NCT04656652]: DS‑1062a (Dato‑DXd) and Docetaxel. *Phase 3 | active not recruiting | lead sponsor: Daiichi Sankyo | collaborators: AstraZeneca*\n- **A Study Comparing Tarlatamab, Durvalumab, Carboplatin, and Etoposide Versus Durvalumab, Carboplatin, and Etoposide in First‑line Extensive‑Stage Small‑Cell Lung Cancer** [NCT07005128]: Tarlatamab, Durvalumab, Carboplatin, and Etoposide. *Phase 3 | active not recruiting | lead sponsor: Amgen | collaborators: AstraZeneca*\n- **A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic NSCLC** [NCT05984277]: Volrustomig, Pembrolizumab, Carboplatin, Paclitaxel, and Pemetrexed. *Phase 3 | active not recruiting | lead sponsor: AstraZeneca*",
+    "draft": "23 active trials are for lung cancer. The most relevant are listed below.\n\n- **A Study of Novel Combinations in Non‑Small Cell Lung Cancer (NSCLC)** [NCT07098338]: Rilvegostomig and Dato‑DXd.  \n- **A Phase III Study of Ceralasertib Plus Durvalumab Versus Docetaxel in Patients With NSCLC** [NCT05450692]: Ceralasertib and Durvalumab.  \n- **Study of DS‑1062a Versus Docetaxel in Previously Treated Advanced or Metastatic NSCLC** [NCT04656652]: Dato‑DXd.  \n- **A Study Comparing Tarlatamab, Durvalumab, Carboplatin, and Etoposide Versus Durvalumab, Carboplatin, and Etoposide in First‑line Extensive‑Stage Small‑Cell Lung Cancer** [NCT07005128]: Tarlatamab and Durvalumab.  \n- **A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic NSCLC** [NCT05984277]: Volrustomig.",
+    "changes": [
+      "NCT07098338 – added Ramucirumab to the list of interventions.",
+      "NCT05450692 – added Docetaxel to the list of interventions.",
+      "NCT04656652 – added Docetaxel to the list of interventions.",
+      "NCT07005128 – added Carboplatin and Etoposide to the list of interventions.",
+      "NCT05984277 – added Pembrolizumab, Carboplatin, Paclitaxel, and Pemetrexed to the list of interventions."
+    ],
+    "terms": {
+      "focus": "Conditions: lung cancer.",
+      "conditions": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ],
+      "interventions": {},
+      "status": "active",
+      "sponsors": [
+        "AstraZeneca"
+      ]
+    },
+    "total": 23,
+    "counts": [
+      {
+        "drug": "carboplatin",
+        "trials": 9
+      },
+      {
+        "drug": "dato-dxd",
+        "trials": 8
+      },
+      {
+        "drug": "rilvegostomig",
+        "trials": 7
+      },
+      {
+        "drug": "durvalumab",
+        "trials": 6
+      },
+      {
+        "drug": "pembrolizumab",
+        "trials": 6
+      },
+      {
+        "drug": "pemetrexed",
+        "trials": 6
+      },
+      {
+        "drug": "cisplatin",
+        "trials": 5
+      },
+      {
+        "drug": "docetaxel",
+        "trials": 4
+      },
+      {
+        "drug": "osimertinib",
+        "trials": 3
+      },
+      {
+        "drug": "paclitaxel",
+        "trials": 3
+      },
+      {
+        "drug": "etoposide",
+        "trials": 2
+      },
+      {
+        "drug": "saruparib",
+        "trials": 2
+      },
+      {
+        "drug": "volrustomig",
+        "trials": 2
+      },
+      {
+        "drug": "adjuvant durvalumab",
+        "trials": 1
+      },
+      {
+        "drug": "azd6750",
+        "trials": 1
+      }
+    ],
+    "trials": [
+      {
+        "trial_id": "NCT07098338",
+        "title": "A Study of Novel Combinations in Non-Small Cell Lung Cancer (NSCLC)",
+        "phase": "Phase 2",
+        "status": "RECRUITING",
+        "sponsor": "AstraZeneca",
+        "url": "https://clinicaltrials.gov/study/NCT07098338"
+      },
+      {
+        "trial_id": "NCT05450692",
+        "title": "A Phase III Study of Ceralasertib Plus Durvalumab Versus Docetaxel in Patients With Non Small Cell Lung Cancer (NSCLC) Whose Disease Progressed On or After Prior Anti PD (L)1 Therapy And Platinum Based Chemotherapy",
+        "phase": "Phase 3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "sponsor": "AstraZeneca",
+        "url": "https://clinicaltrials.gov/study/NCT05450692"
+      },
+      {
+        "trial_id": "NCT04656652",
+        "title": "Study of DS-1062a Versus Docetaxel in Previously Treated Advanced or Metastatic Non-small Cell Lung Cancer With or Without Actionable Genomic Alterations (TROPION-LUNG01)",
+        "phase": "Phase 3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "sponsor": "Daiichi Sankyo",
+        "url": "https://clinicaltrials.gov/study/NCT04656652"
+      },
+      {
+        "trial_id": "NCT07005128",
+        "title": "A Study Comparing Tarlatamab, Durvalumab, Carboplatin, and Etoposide Versus Durvalumab, Carboplatin, and Etoposide in First-line Extensive Stage Small-Cell Lung Cancer (ES-SCLC)",
+        "phase": "Phase 3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "sponsor": "Amgen",
+        "url": "https://clinicaltrials.gov/study/NCT07005128"
+      },
+      {
+        "trial_id": "NCT05984277",
+        "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
+        "phase": "Phase 3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "sponsor": "AstraZeneca",
+        "url": "https://clinicaltrials.gov/study/NCT05984277"
+      }
+    ]
+  },
+  "Recruiting Parkinson's trials": {
+    "question": "Are there recruiting trials for Parkinson's disease?",
+    "answer": "20 recruiting trials are for Parkinson's disease. The most relevant are listed below.\n\n- **Phase I study of MTX325 in Parkinson's disease** [NCT07630545]: MTX325. *Phase 1 | recruiting | lead sponsor: Mission Therapeutics | collaborators: Michael J. Fox Foundation for Parkinson's Research, Parkinson's UK*\n- **Single ascending dose study of SER‑252 in Parkinson's disease with motor fluctuations** [NCT07422675]: SER‑252. *Phase 1 | recruiting | lead sponsor: Serina Therapeutics*\n- **Phase 3 trial of bemdaneprocel in Parkinson's disease** [NCT06944522]: bemdaneprocel. *Phase 3 | recruiting | lead sponsor: BlueRock Therapeutics | collaborators: Bayer*\n- **Exercise intervention trial for Parkinson's disease** [NCT07057219]: Exercise (non‑pharmacologic). *phase not applicable | recruiting | lead sponsor: The University of New South Wales | collaborators: Neuroscience Research Australia, VU University of Amsterdam, IRCCS Azienda Ospedaliero-Universitaria di Bologna, Shake it up Australia Foundation, Tel Aviv Medical Center*\n- **Safety, tolerability and PK/PD study of LBT‑3627 in Parkinson's disease** [NCT06466525]: LBT‑3627. *Phase 1 | recruiting | lead sponsor: Longevity Biotech Australia Pty Ltd (subsidiary)*",
+    "draft": "20 recruiting trials are for Parkinson's disease. The most relevant are listed below.\n\n- **Phase I study of MTX325 in Parkinson's disease** [NCT07630545]: MTX325.  \n- **Single ascending dose study of SER‑252 in Parkinson's disease with motor fluctuations** [NCT07422675]: SER‑252.  \n- **Phase 3 trial of bemdaneprocel in Parkinson's disease** [NCT06944522]: bemdaneprocel.  \n- **Exercise intervention trial for Parkinson's disease** [NCT07057219]: Exercise (non‑pharmacologic).  \n- **Safety, tolerability and PK/PD study of LBT‑3627 in Parkinson's disease** [NCT06466525]: LBT‑3627.",
+    "changes": [],
+    "terms": {
+      "focus": "Conditions: Parkinson's disease.",
+      "conditions": [
+        "Parkinson's disease",
+        "Parkinson disease"
+      ],
+      "interventions": {},
+      "status": "recruiting",
+      "sponsors": []
+    },
+    "total": 20,
+    "counts": [
+      {
+        "drug": "pembrolizumab",
+        "trials": 9
+      },
+      {
+        "drug": "paclitaxel",
+        "trials": 7
+      },
+      {
+        "drug": "carboplatin",
+        "trials": 6
+      },
+      {
+        "drug": "sacituzumab tirumotecan",
+        "trials": 5
+      },
+      {
+        "drug": "cisplatin",
+        "trials": 3
+      },
+      {
+        "drug": "docetaxel",
+        "trials": 3
+      },
+      {
+        "drug": "gemcitabine",
+        "trials": 3
+      },
+      {
+        "drug": "capecitabine",
+        "trials": 2
+      },
+      {
+        "drug": "nab-paclitaxel",
+        "trials": 2
+      },
+      {
+        "drug": "rescue medication",
+        "trials": 2
+      },
+      {
+        "drug": "alk-inhibitor or ret-inhibitor",
+        "trials": 1
+      },
+      {
+        "drug": "bemdaneprocel",
+        "trials": 1
+      },
+      {
+        "drug": "bispecific antibody for pd-l1",
+        "trials": 1
+      },
+      {
+        "drug": "bnt116",
+        "trials": 1
+      },
+      {
+        "drug": "bnt316",
+        "trials": 1
+      }
+    ],
+    "trials": [
+      {
+        "trial_id": "NCT07630545",
+        "title": "A Phase I Study in Healthy Volunteers and Parkinson's Disease (PD) Patients.",
+        "phase": "Phase 1",
+        "status": "RECRUITING",
+        "sponsor": "Mission Therapeutics",
+        "url": "https://clinicaltrials.gov/study/NCT07630545"
+      },
+      {
+        "trial_id": "NCT07422675",
+        "title": "SAD Study in Patients With Parkinson's Disease and Motor Fluctuations",
+        "phase": "Phase 1",
+        "status": "RECRUITING",
+        "sponsor": "Serina Therapeutics",
+        "url": "https://clinicaltrials.gov/study/NCT07422675"
+      },
+      {
+        "trial_id": "NCT06944522",
+        "title": "A Study to Investigate the Efficacy and Safety of Bemdaneprocel in Adults Who Have Parkinson's Disease",
+        "phase": "Phase 3",
+        "status": "RECRUITING",
+        "sponsor": "BlueRock Therapeutics",
+        "url": "https://clinicaltrials.gov/study/NCT06944522"
+      },
+      {
+        "trial_id": "NCT07057219",
+        "title": "Steps Against the Burden of Parkinson's Disease",
+        "phase": null,
+        "status": "RECRUITING",
+        "sponsor": "The University of New South Wales",
+        "url": "https://clinicaltrials.gov/study/NCT07057219"
+      },
+      {
+        "trial_id": "NCT06466525",
+        "title": "A Two-Part Single and Multiple Ascending Dose Trial of the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of LBT-3627 in Healthy Participants and in Participants With Parkinson's Disease.",
+        "phase": "Phase 1",
+        "status": "RECRUITING",
+        "sponsor": "Longevity Biotech Australia Pty Ltd (subsidiary)",
+        "url": "https://clinicaltrials.gov/study/NCT06466525"
+      }
+    ]
+  }
+}
